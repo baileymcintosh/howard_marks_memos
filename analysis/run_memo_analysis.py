@@ -222,7 +222,7 @@ def period_label(date_value: str | None) -> str:
 def load_memos() -> list[Memo]:
     session = requests.Session()
     memos: list[Memo] = []
-    for article_path in sorted(ROOT.glob("2026-03_*/article.md")):
+    for article_path in sorted((ROOT / "memos").glob("2026-03_*/article.md")):
         raw = fix_mojibake(article_path.read_text(encoding="utf-8", errors="ignore"))
         meta, body = parse_frontmatter(raw)
         title = meta.get("title", article_path.parent.name)
