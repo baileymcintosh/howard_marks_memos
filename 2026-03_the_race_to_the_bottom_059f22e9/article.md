@@ -1,0 +1,104 @@
+---
+title: "The Race to the Bottom"
+source: "Oaktree Capital Management"
+firm: "oaktree"
+url: "https://www.oaktreecapital.com/docs/default-source/memos/2007-02-14-the-race-to-the-bottom.pdf?sfvrsn=9bbc0f65_6"
+downloaded: "2026-03-24"
+images: []
+---
+
+If you make cars and want to sell more of them over the long term – that is, take permanent market share from your competitors – you’ll try to make your product better. (You might cut your prices or increase your advertising, but neither of those will work for long if your cars are demonstrably inferior.)  “Building a better mousetrap” should also be effective for sellers of toothpaste, computers, televisions, magazines, movies and dresses, or any other product that can be differentiated from its competitors.  That’s why – one way or the other – most sales pitches say, “Ours is better.”
+
+However, there are products that can’t be differentiated, and economists call them “commodities.”  These are generic goods like gold, West Texas crude oil, pork bellies, steel ingot, orange juice, electricity and telecommunications bandwidth.  They’re goods where no seller’s offering is much different from any other.  They tend to trade on price alone, and each buyer is likely to take the offering at the lowest delivered price.
+
+Thus, if you deal in a commodity and want to sell more of it, there’s generally one way to do so: cut your price.  It’s futile to make claims for product superiority, and advertising is unlikely to alter buying habits.  Thus in order to gain market share, you have to make your product cheaper than someone else’s.
+
+It helps to think of money as a commodity just like those others.  Everyone’s money is pretty much the same.  Yet institutions seeking to add to loan volume, and private equity funds and hedge funds seeking to increase their fees (see “The New Paradigm”), all want to move more of it.  So if you want to place more money – that is, get people to go to you instead of your competitors for their financing – you have to make your money cheaper.  As with the other commodities, low price is the most dependable route to increased market share.
+
+One way to lower the price for your money is by reducing the interest rate you charge on loans.  A slightly more subtle way is to agree to a higher price for the thing you’re buying, such as by paying a higher p/e ratio for a common stock or a higher total transaction price when you’re buying a company.  Any way you slice it, you’re settling for a lower prospective return.  But there are other ways to cheapen your money, and they’re the primary subject of this memo.
+
+UCongratulations!
+
+What else is there – besides return – that you can accept less of in order to accelerate the pace at which you put out your money?  The answer is simple: safety. So a provider of capital who wants to increase market share – that is, make a bigger percentage of the loans or investments that are made – will accept risks that others won’t. That’s another way to get the deal instead of having it go to someone else.
+
+I sometimes buy at auctions.  When the bidding’s over, the auction house personnel come up and say “congratulations.”  I usually say, “On what?  All I did is pay more than anyone else would pay.”  That’s how auctions work – most market mechanisms, in fact: the deal goes to the person who’ll pay the most for the goods (or, looked at conversely, get the least for his money).  The capital markets are no different.
+
+Of course, when the subject is price, it’s obvious that the person who’s willing to pay the most wins the auction.  It’s a little more subtle that, when it comes to quality and safety, the person who’ll accept the least is likely to be congratulated as the “winner.”  Winner in quotes, that is, because in putting out capital, the person who gets the deal is likely to be a loser if he accepts a level of safety that turns out to be inadequate.
+
+That leads me to one of my pet peeves.  The “industry rags” in private equity are devoted almost exclusively to reporting who bought what company, with accounts of how competitors were outbid and innovative financing arranged.  But the articles should focus instead on whether the price was right, and the champagne should probably be kept on ice until the company has been sold at a profit.  Buying shows who was the highest bidder, not necessarily the smartest bidder.
+
+(Let me hasten to point out here that while I generalize as usual for simplicity and effect, there are always exceptions.  Oaktree routinely gains admittance to deals because we provide prompt commitments, certainty of closure, assistance in structuring and/or the promise of constructive behavior should problems arise.  But much of the time – especially today – deals go to the capital providers who’ll pay the most and/or accept the least.  We try to gain access to deals by adding value, not by paying the most.)
+
+UThe Auction’s On
+
+While the last few years have given me many opportunities to marvel at excesses in the capital markets, in this case the one that elicited my battle cry – “that calls for a memo” – hit the newspapers in England during my last stay.  As the Financial Times reported on November 1,
+
+Abbey, the UK’s second-largest home loans provider, has raised the standard amount it will lend homebuyers to five times either their single or joint salaries, eclipsing the traditional borrowing levels of around three and a half times salary.  It followed last week’s decision by Bank of 2
+
+Ireland Mortgages and Bristol and West to increase standard salary multiples from four to 4.5 tim es.
+
+In other words, there had been a traditional rule of thumb saying that borrowers can safely handle mortgages with a face amount equal to three-plus times their salaries.  But now they can have five times – roughly 50% more.  What inference should be drawn?
+There are at least four possibilities:
+
+1. The old standard was too conservative, and the new one’s right; 2. Conditions have changed, such that the new standard is as conservative for today as the old one was for its times; 3. It’s reasonable for mortgage lenders to accept higher default experience, and thus lower net returns, because their cost of capital has declined; or 4. The rush to place money has caused a supplier of capital to loosen its standards.
+
+Now, I am no expert on the UK mortgage market, and it’s my intention in this memo to comment on general capital market trends, not any one sector.  Further, it’s certainly true that today’s lower interest rates mean a given salary can support a bigger mortgage (and that’s likely to hold true so long as (1) borrowers keep their jobs and (2) their mortgages carry fixed rates).  But if you think Abbey’s reason for taking this step might be a logical one like that, the question to ask is “why now?”
+
+Logical reasons and sober decision making might be involved here.  But so might competition to put out money and the usual late-stage belief that “it’s different this time.”  Lenders and investors invariably depart from time-honored disciplines when cycles move to extremes, out of a belief that current conditions are different from those that prevailed in the past, when those disciplines were appropriate.  And just as invariably, they’re shown that cycles repeat and nothing really changes.
+
+What did we see in the U.S. mortgage market as home prices rose and interest rates declined?  First, low teaser rates.  Then higher loan-to-value ratios.  Then 100% financing.  Then low-amortization loans.  Then no-amortization loans.  Then loans requiring no documentation of employment or credit history.  These things made it possible for more buyers to stretch for more expensive homes, but at the same time they made mortgages riskier for lenders.  And these developments took place when home prices were at sky-high and interest rates were at multi-generation lows.  In the end, buyers took out the biggest mortgage possible given their incomes and prevailing interest rates.  Such mortgages would land them in the houses of their dreams . . . and leave them there for as long as conditions didn’t deteriorate, which they invariably do.
+
+Do you remember the game Bid-a-Note from the TV show “Name that Tune”? Contestant x said, “I can name that tune in six notes.”  Then contestant y said, “I can name that tune in five notes.”  Then contestant x said, “I can name that tune in four notes.”  The contestant who eventually got the chance to guess the name of the tune was the one who was willing to accept the riskiest proposition – to try on the basis of the least information. 3
+
+So the Bank of Ireland e
+ntered the competition to lend money for home purchases and said, “I’ll lend four and a half times the borrower’s salary.”  And Abbey said, “I’ll lend five times.”  The so-called winner in this auction is the one who’ll put out the most money with the least safety.  Whether that’s really winning or losing will become clear when the cycle turns, as it did in the U.S. last year.  But certainly there’s a race to the bottom going on . . . a contest to become the institution that’ll make loans with the slightest margin for error.
+
+By the way, were the people who made those U.S. mortgages loans big losers?  Defaults spiked last year, but often the originators of the loans had escaped by selling the loans onward to others, some of whom packaged them into mortgage-backed securities or CLOs and sold them once again or borrowed against them on a non-recourse basis.  Since many of the people who make loans today flip them quickly, an aspect of “moral hazard” has entered the equation, in which decision makers are insulated from the consequences of their actions.
+
+Any way you slice it, standards for mortgage loans have dropped in recent years, and risk has increased.  Logic-based?  Perhaps.  Cycle-induced (and exacerbated)? I’d say so.  The FT quoted John Paul Crutchley, a banking analyst at Merrill Lynch, as saying “When Abbey are lending a multiple of five times salary, that could be perfectly sensible – or it could be tremendously risky.”  Certainly mortgage lending was made riskier.  We’ll see in a few years whether that was intelligent risk taking or excessive competitive ardor.
+
+UEveryone’s Got a Favorite
+
+A lot of Oaktree’s activities center around buying bonds, making loans and trying to profit when debt that others hold goes bad.  So who better than my colleagues for me to turn to for examples of mistakes in the making?  I asked for examples of the race to the bottom, and the response was immediate and substantial.  I won’t embarrass individual issuers or borrowers by describing specific transactions; the names have been omitted to protect the guilty.  But here are some of the themes our people told me about:
+
+ UHot potatoU – There’s big money today in buying companies and then having them borrow money with which to pay you a dividend, even if doing so reduces the companies’ creditworthiness.  Just a few years back, companies generally wouldn’t have been able to issue bonds or loans where the projected use of proceeds was dividends to their equity owners.  But since people are so eager to invest today, they’ll lend to companies where much or all of the equity paid in – or maybe more than all of it – will be dividended out.  They’re doing so on the expectation that they’ll be able to exit before risk turns into loss.  “If things take a turn for the worse, I’ll get out” is a refrain that accompanies most market excesses (tech stocks in 1999 and condos in 2005 come immediately to mind), but rarely does it turn out that way. 4
+
+ UHeads We Win/Tails You LoseU – Part of being willing to pay more for less relates to the balance between upside potential, downside risk and who gets what.  SPACs – or Special Purpose Acquisition Companies, also known as “blank check companies” or “blind pools” – seem like a good example of miscalibration.  People put equity capital into a SPAC with no certainty as to what will be done with it.  The SPAC’s “portfolio” is likely to consist of just one company.  And the investors will get no return on their money as long as it remains unspent, which can be up to 18 or 24 months.  The sponsor, on the other hand, gets 20% of any profits, as there’s no preferred return.  It does so through warrants, which it can liquidate even without having sold the acquired company.  And if it can’t make an acquisition, it just returns the money without penalty – usually reduced by banking and other fees.
+
+ UNot My ProblemU – One of the stories I was told pertained to a company whose accounting problems had prevented it from issuing audited financial statements for a relatively long period of time.  After the company went bankrupt, we were determined to learn more about its accounting issues than anyone else and then intelligently make a debtor-in-possession loan, through which we might gain ownership of the company.  But before we could make the loan, someone else made the company a better offer: more leverage on cheaper terms, with no provision for accounting due diligence.  When later we were able to ask about why we had lost out, we were told that one reason the other lender was able to be more aggressive than Oaktree was the fact that it had “pre-syndicated” most of the loan to hedge funds. This was accomplished in the absence of financial statements or accounting due diligence, but with validation from the high trading price of the company’s public securities (which was being set, again, in a financial-statement void).  Okay, so the lender’s risk was limited.  But how about the funds that bought the loan?
+
+ UComplexity Outruns AnalysisU – Wall Street is incredibly inventive.  It’s staffed by bright people, pursuing massive incentives, trying to out-think their competitors in order to win assignments to serve companies’ financial needs.  Sometimes this results in structures that few people understand, fraught with hidden risks.  My latest nominee is the CPDO, or Constant Proportion Debt Obligation.  CPDOs provide capital to finance structured entities writing credit insurance on investment grade debt.  Because this debt entails little credit risk, the returns that can be earned from writing credit insurance on it are similarly low.  Thus, these entities have to lever up substantially – typically 15-to-1 – to provide the LIBOR+200 returns promised on the bottom-tier CPDO.  The rating agencies bestow triple-A ratings on the CPDOs because (a) the riskiness of investment grade bonds is low and (b) the projected interest spreads and the net asset values initially are far more than sufficient to satisfy the covenants.  But because the portfolios are so highly leveraged, these cushions can evaporate quickly.
+
+I find two things about CPDOs worthy of particular note.  First, this is the first- loss equity piece beneath a highly leveraged entity where consequences can be triggered by breaches of income and market value covenants.  Thus, the equity 5
+
+beneath a portfolio of bonds averaging single-A, leveraged up 15-to1, gets a triple-A rating.  Huh?  S econd, as the Financial Times wrote on November 13, “if there are losses and the CPDO’s net asset value begins to fall from its target, the leverage is increased to try to earn more at a faster rate.”  In other words, if you did a little of something and it didn’t work, try to recoup your losses by doing a lot.
+
+ UWhat Due Diligence?U – The other day, Orin Kramer (see “Pigweed”) observed skeptically that “the most profitable way to be a lender today is to have no underwriting department.”  In other words, default rates are too low, and the market is too competitive, for credit analysis to be worth paying for.  In December, Reuters described a takeover bid whose competitiveness was enhanced by a reduced due diligence period and a short list of information requirements.  And most interestingly, one of the major investment banks told us recently that on most syndicated loans, about 70% of the buyers never visit the data rooms set up to facilitate due diligence.
+
+ UPut the Pedal DownU – FT.com pointed out on January 21 that, “One-tenth of the capital committed [to private equity funds] in 2002 was . . . put to work within one year.  For funds invested in 2005, the corresponding proportion was almost 30 percent.”  If the amount raised in 2005 was triple the 2002 level, as I believe was the case, that means private equity funds deployed capital in 2005 roughly nine times as fast as they had in 2002.
+
+No one of these is evidence of misfeasance or terminal laxness by itself.  But together they describe a market where a desire for quantity and speed has taken over from an insistence on quality and caution.  And with that insistence goes the margin of safety that Warren Buffett urges investors to demand.
+
+UThe Amazing Disappearing Covenant
+
+Evaluating and negotiating covenants is an important part of the high yield bond investor’s job.  The law says a company’s board of directors has a fiduciary duty to its shareholders, but generally speaking there is no analogous duty to creditors such as banks and bondholders.  In fact, some companies behave as if they feel a responsibility to actively take value from creditors and transfer it to the shareholders.  Because companies can do anything to creditors that isn’t prohibited by law or the bond indenture, covenants are a key component in creditor safety.
+
+It’s important to bondholders, for example, that the companies to which they lend money remain as little changed as possible.  They want the creditworthiness they lend against to still be there years down the road, and strong covenants can do a lot to ensure that’s the case.  Bondholders can’t prevent problems in the economy, the company’s markets, its products’ competitiveness or its executive suite.  But with good covenants, they can put limits on leverage, acquisitions, cash distributions or asset transfers, and they can tighten financial tests and insist on rights that will be triggered if cash flow falls below a 6
+
+specified mu
+ltiple of the company’s indebtedness or interest obligation.  On the other hand, just as people who are eager to buy bonds can increase their chances of being able to do so by accepting less interest, they also can do so by settling for weaker covenants.
+
+When credit markets are tight and providers of capital are reticent, money can be hard to come by.  Companies’ demand for financing can exceed the supply, putting negotiating power in the hands of the lenders.  Thus lenders can insist on – and obtain – strict covenants, and bonds issued in such an environment are likely to be relatively safe.
+
+But when usually disciplined bond buyers have to compete against others who aren’t acting in a disciplined fashion, their ability to insist on covenant protection goes out the window.  In economics, Gresham’s Law says “bad money drives out good.”  That’s why, when paper money joined gold as legal tender, gold was put in the strongbox rather than spent, and only paper money circulated.  The same thing happens in the investing world: bad investors drive out good.  When undisciplined investors are out there with lots of money to get rid of, there’s less scope for disciplined investors to insist on strong covenants.  That’s why the level of covenant protection is a good barometer of the market climate.
+
+Covenants are the province of a special breed of analysts who are willing to “sweat the details” and able to make sense of paragraph-long, highly technical sentences.  “A Review of Covenant Trends in 2006” by Adam B. Cohen is no less challenging reading. It reviews last year’s trends in a number of complex indenture provisions, but I’ll limit myself to quoting its general conclusions:
+
+For years, investors have periodically lamented the declining quality of high yield bond covenants but the trends have become especially pronounced amidst a flurry of leveraged buyout (LBO) financings . . . .  a careful review of covenant packages – particularly in sponsor-backed [i.e., LBO] offerings – during 2006 reveals a systematic dismantling of longstanding covenant protections . . .
+
+And as Reuters reported on February 6, Standard and Poor’s added the weight of
+its opinion:
+
+While credit quality is under even greater pressure, the amount of cash on offer has meant private equity sponsors have been able to dilute lenders’ rights through weaker covenants and loan documentation, [S&P] said. “Loan structures have become so borrow-friendly that private equity sponsors can write their own term sheets, using their last term sheet as the template for their next.”
+
+And, in our view, that template usually serves as the starting point for the next round of erosion of covenants and terms.
